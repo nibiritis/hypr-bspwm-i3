@@ -1,0 +1,4 @@
+2024-10-13 14:34:08.614 [info] Started local extension host with pid 11587.
+2024-10-13 14:34:08.684 [info] Started initializing default profile extensions in extensions installation folder. file:///home/nibir/.vscode-oss/extensions
+2024-10-13 14:34:08.957 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/nibir/.vscode-oss/extensions
+2024-10-13 14:34:08.998 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'

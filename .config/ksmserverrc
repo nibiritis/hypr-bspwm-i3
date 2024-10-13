@@ -1,0 +1,10 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=101e212f1a417d000172873980400000011380004
+count=1
+program1=firefox
+restartCommand1=/usr/lib/firefox/firefox,--sm-client-id,101e212f1a417d000172873980400000011380004
+restartStyleHint1=0
+userId1=nibir
