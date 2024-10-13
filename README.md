@@ -31,6 +31,16 @@ cd ~/HyDE/Scripts
 ./install.sh
 ```
 
+### Optional Step: Install i3 if you want
+```bash
+sudo pacman -S i3
+```
+or,
+
+```bash
+yay -S i3
+```
+
 ### Step 4: Managing the Dots
 
 ```bash
