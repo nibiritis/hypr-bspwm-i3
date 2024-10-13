@@ -52,3 +52,17 @@ this should work
 ```bash
 Hyde thene import
 ```
+
+
+
+
+
+
+## Credits and Acknowledgments
+
+Special thanks to the following individuals for their amazing contributions and inspiration:
+
+- [gh0stzk](https://github.com/gh0stzk) - For their dotfiles and guidance in customizing Linux environments.
+- [prasanthrangan](https://github.com/prasanthrangan) - For their Hyprland configurations and inspiring ricing setups.
+
+Their work has been incredibly helpful in creating this setup!
